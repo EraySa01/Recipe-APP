@@ -1,3 +1,3 @@
-# forkify project
+# Recipe APP
 
-Recipee appppp with recipes
+This is a website built with javascript to find and share good recipes
